@@ -8,4 +8,4 @@ a demanda das empresas. O mercado tecnológico cresce cada dia mais.
     
 AMBIENTE DE DESENVOLVIMENTO E OPERAÇÃO    
 Está relacionado a uma cultura e um conjunto de processos que unem equipes de desenvolvimento e   
-operações (DevOps), para concluir o desenvolvimento de um software de forma unificada.  
+operações (DevOps), para concluir o desenvolvimento de um software de forma unificada.
